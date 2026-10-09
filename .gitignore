@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.grok/
+screenshots/
+attachments/
+artifacts/
+.env
+.env.*
+.vercel/
+*.log
+.DS_Store
+*.png
+*.jpg
+*.jpeg
+*.webp
