@@ -419,3 +419,4 @@ export function tripMeters(px: number, pz: number, tx: number, tz: number) {
   if (straight < 820 && road > straight + 70 && !segmentBlocked(px, pz, tx, tz)) return straight;
   return road;
 }
+
